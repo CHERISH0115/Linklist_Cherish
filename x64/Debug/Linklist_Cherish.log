@@ -1,0 +1,4 @@
+﻿  main.c
+D:\HuaweiMoveData\Users\刘延安\Desktop\Linklist_Cherish\cherish.h(32,20): warning C4474: printf: 格式字符串中传递的参数太多
+D:\HuaweiMoveData\Users\刘延安\Desktop\Linklist_Cherish\cherish.h(32,20): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Linklist_Cherish.vcxproj -> D:\HuaweiMoveData\Users\刘延安\Desktop\Linklist_Cherish\x64\Debug\Linklist_Cherish.exe
